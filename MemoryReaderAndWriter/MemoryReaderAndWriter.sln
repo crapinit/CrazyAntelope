@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BE5B3146-EC29-4F2D-8E88-CB0EDD0A25A4}"
+	ProjectSection(SolutionItems) = preProject
+		MemoryWriter.cpp = MemoryWriter.cpp
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MemoryReaderAndWriter", "MemoryReaderAndWriter\MemoryReaderAndWriter\MemoryReaderAndWriter.vcxproj", "{99C58DF8-9F26-490C-9E8E-FD97170DFF7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99C58DF8-9F26-490C-9E8E-FD97170DFF7C}.Debug|ARM.ActiveCfg = Debug|ARM
+		{99C58DF8-9F26-490C-9E8E-FD97170DFF7C}.Debug|ARM.Build.0 = Debug|ARM
+		{99C58DF8-9F26-490C-9E8E-FD97170DFF7C}.Debug|ARM.Deploy.0 = Debug|ARM
+		{99C58DF8-9F26-490C-9E8E-FD97170DFF7C}.Debug|x64.ActiveCfg = Debug|x64
+		{99C58DF8-9F26-490C-9E8E-FD97170DFF7C}.Debug|x64.Build.0 = Debug|x64
+		{99C58DF8-9F26-490C-9E8E-FD97170DFF7C}.Debug|x64.Deploy.0 = Debug|x64
+		{99C58DF8-9F26-490C-9E8E-FD97170DFF7C}.Debug|x86.ActiveCfg = Debug|Win32
+		{99C58DF8-9F26-490C-9E8E-FD97170DFF7C}.Debug|x86.Build.0 = Debug|Win32
+		{99C58DF8-9F26-490C-9E8E-FD97170DFF7C}.Debug|x86.Deploy.0 = Debug|Win32
+		{99C58DF8-9F26-490C-9E8E-FD97170DFF7C}.Release|ARM.ActiveCfg = Release|ARM
+		{99C58DF8-9F26-490C-9E8E-FD97170DFF7C}.Release|ARM.Build.0 = Release|ARM
+		{99C58DF8-9F26-490C-9E8E-FD97170DFF7C}.Release|ARM.Deploy.0 = Release|ARM
+		{99C58DF8-9F26-490C-9E8E-FD97170DFF7C}.Release|x64.ActiveCfg = Release|x64
+		{99C58DF8-9F26-490C-9E8E-FD97170DFF7C}.Release|x64.Build.0 = Release|x64
+		{99C58DF8-9F26-490C-9E8E-FD97170DFF7C}.Release|x64.Deploy.0 = Release|x64
+		{99C58DF8-9F26-490C-9E8E-FD97170DFF7C}.Release|x86.ActiveCfg = Release|Win32
+		{99C58DF8-9F26-490C-9E8E-FD97170DFF7C}.Release|x86.Build.0 = Release|Win32
+		{99C58DF8-9F26-490C-9E8E-FD97170DFF7C}.Release|x86.Deploy.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {115B3978-DB82-4495-88D2-65BD986D6806}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+﻿  MemoryWriter.cpp
+c:\users\mommy\documents\git projects\crazyantelope\memoryreaderandwriter\memorywriter.cpp(17): error C3861: 'FindWindow': identifier not found
+c:\users\mommy\documents\git projects\crazyantelope\memoryreaderandwriter\memorywriter.cpp(20): error C2065: 'cerr': undeclared identifier
+c:\users\mommy\documents\git projects\crazyantelope\memoryreaderandwriter\memorywriter.cpp(24): error C3861: 'GetWindowProcessThreadId': identifier not found
+c:\users\mommy\documents\git projects\crazyantelope\memoryreaderandwriter\memorywriter.cpp(28): error C2065: 'cerr': undeclared identifier
+c:\users\mommy\documents\git projects\crazyantelope\memoryreaderandwriter\memorywriter.cpp(31): error C3861: 'WriteProcessMemory': identifier not found
+c:\users\mommy\documents\git projects\crazyantelope\memoryreaderandwriter\memorywriter.cpp(35): error C2065: 'clog': undeclared identifier
+c:\users\mommy\documents\git projects\crazyantelope\memoryreaderandwriter\memorywriter.cpp(38): error C2065: 'cerr': undeclared identifier
+c:\users\mommy\documents\git projects\crazyantelope\memoryreaderandwriter\memorywriter.cpp(13): warning C4447: 'main' signature found without threading model. Consider using 'int main(Platform::Array<Platform::String^>^ args)'.
